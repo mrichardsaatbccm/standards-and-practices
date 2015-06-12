@@ -202,6 +202,7 @@ Format:
 | Maya Osbourne | [mayaosbourne](https://github.com/mayaosbourne) | Computer Science student. Proficient in Java with some C, Assembly, HTML, CSS, SQL, and Python experience. |
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Michael Movsesov | [michaelmov](https://github.com/michaelmov) | Information Systems student wanting to become a good web developer. I have knowledge of HTML, CSS, JavaScript, PHP and C# but really want to focus on learning as much PHP as I contribute to projects on GitHub|
+| Michael Richards | [mrichardsaatbccm](https://github.com/mrichardsaatbccm)| Very familiar with php and a solid understanding of Java. Currently taking a course in Java with a perfect grade thus far. I am also interested in and have dabbled in C#.I am currently in college studying for a degree in Information Technology with a concentration in Software Development. I really want to gain some real world experience in programming|
 | Michael Vetter | [jubalh](https://github.com/jubalh) | 4 Years working experience in C. Basic knowledge of Java. Would like to practise and contribute to open source. Looking forward to learn how the open source world works. |
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike North | [Mikesnorth] (http://github.com/Mikesnorth) | Basic knowlege of Java and C#, have dipped into Python and C++. |
